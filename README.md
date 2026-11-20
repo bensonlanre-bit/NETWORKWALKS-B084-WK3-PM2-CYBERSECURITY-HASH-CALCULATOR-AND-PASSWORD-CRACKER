@@ -89,4 +89,4 @@ If you find this project useful for learning cybersecurity, please consider givi
 
 Learn. Practise. Secure. Repeat.
 
-#Cybersecurity #EthicalHacking #Python #PasswordSecurity #Hashing #PasswordCracking #KaliLinux #InformationSecurity #GitHub #LansBen
+#Networkwalks #Cybersecurity #EthicalHacking #Python #PasswordSecurity #Hashing #PasswordCracking #KaliLinux #Informationsecurity
